@@ -59,9 +59,9 @@ header.sticky .logo a{
 	text-align:center;
 	width:100%;
 }
-.slider-list li.slide1{ background-image:url(/img/30.jpg);}
-.slider-list li.slide2{ background-image:url(/img/34.jpg);}
-.slider-list li.slide3{ background-image:url(/img/36.jpg);}
+.slider-list li.slide1{ background-image:url(img/30.jpg);}
+.slider-list li.slide2{ background-image:url(img/34.jpg);}
+.slider-list li.slide3{ background-image:url(img/36.jpg);}
 
 .slider-list li .contents {position:absolute; left:50%; top:50%; transform:translate(-50%, -50%); z-index:110; color:#fff; width:590px;}
 .slider-list li .contents h3 {font-size:27px; font-family:"Raleway", sans-serif; font-weight:600; line-height:1.1;}
