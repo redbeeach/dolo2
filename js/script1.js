@@ -1,15 +1,15 @@
 $(document).ready(function () {
 
-	    $('.posts_list').bxSlider({
-	        minSlides: 1,
-	        maxSlides: 3,
-	        moveSlides: 1,
-	        slideWidth: 370,
-	        slideMargin: 30,
-	        pager: false,
-	        nextSelector: '.recent_posts .controls .next',
-	        prevSelector: '.recent_posts .controls .prev'
-	    });
+//	    $('.posts_list').bxSlider({
+//	        minSlides: 1,
+//	        maxSlides: 3,
+//	        moveSlides: 1,
+//	        slideWidth: 370,
+//	        slideMargin: 30,
+//	        pager: false,
+//	        nextSelector: '.recent_posts .controls .next',
+//	        prevSelector: '.recent_posts .controls .prev'
+//	    });
 //모바일토글
 	    $(".toggle").click(function () {
 	        $(".main-menu").slideToggle();
